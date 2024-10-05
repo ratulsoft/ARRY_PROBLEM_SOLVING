@@ -1,0 +1,68 @@
+Here’s a list of 50 array problems in JavaScript, ranging from beginner to advanced. These cover various array manipulation techniques, as well as recursion-based challenges:								
+								
+Beginner Level								
+								
+1. Sum of All Elements: Write a function that returns the sum of all elements in an array.								
+2. Find Maximum Element: Write a function that finds the maximum element in an array.								
+3. Find Minimum Element: Write a function that finds the minimum element in an array.								
+4. Reverse an Array: Write a function to reverse the elements of an array.								
+5. Array Length: Write a function that returns the length of an array.								
+6. Check if Array is Empty: Write a function to check if an array is empty.								
+7. Find Average of Numbers: Write a function that finds the average of numbers in an array.								
+8. Even and Odd Numbers: Write a function to separate even and odd numbers in an array.								
+9. Count Occurrences of Element: Write a function that counts the occurrences of a specific element in an array.								
+10. Merge Two Arrays: Write a function that merges two arrays.								
+								
+Intermediate Level								
+								
+11. Remove Duplicates from Array: Write a function to remove duplicates from an array.								
+12. Rotate an Array: Rotate an array k times to the right or left.								
+13. Find Second Largest Element: Write a function that finds the second largest element in an array.								
+14. Move Zeros to End: Write a function to move all zeros in an array to the end while maintaining the order of other elements.								
+15. Check for Palindrome Array: Write a function that checks if an array is a palindrome.								
+16. Find Intersection of Two Arrays: Write a function to find the intersection of two arrays.								
+17. Find Union of Two Arrays: Write a function to find the union of two arrays.								
+18. Find Missing Number in Array: Given an array containing n distinct numbers from 0 to n, find the one number that is missing.								
+19. Find Duplicates in Array: Write a function to find the duplicate elements in an array.								
+20. Find Common Elements in 3 Arrays: Given three sorted arrays, find common elements in all three arrays.								
+								
+Advanced Level								
+								
+21. Kth Largest Element: Write a function to find the kth largest element in an array.								
+22. Merge Sorted Arrays: Merge two sorted arrays into a single sorted array.								
+23. Find the Majority Element: Write a function that finds the element that appears more than n/2 times in an array.								
+24. Find Minimum Subarray Length: Write a function to find the minimum subarray length whose sum is greater than or equal to a given number.								
+25. Sort an Array by Frequency: Write a function that sorts an array based on the frequency of its elements.								
+26. Find Longest Increasing Subsequence: Write a function to find the longest increasing subsequence in an array.								
+27. Maximum Subarray Sum: Write a function to find the maximum sum of a subarray.								
+28. Product of Array Except Self: Write a function that returns an array where each element is the product of all elements in the original array except the current one.								
+29. Binary Search in Array: Implement binary search in a sorted array.								
+30. Find Minimum Element in Rotated Sorted Array: Write a function to find the minimum element in a rotated sorted array.								
+								
+Recursion Problems								
+								
+31. Sum of Array (Recursion): Write a recursive function that finds the sum of elements in an array.								
+32. Find Maximum Element (Recursion): Write a recursive function that finds the maximum element in an array.								
+33. Reverse Array (Recursion): Write a recursive function to reverse an array.								
+34. Check for Palindrome (Recursion): Write a recursive function to check if an array is a palindrome.								
+35. Flatten Nested Arrays: Write a recursive function that flattens nested arrays.								
+36. Fibonacci Sequence: Generate the Fibonacci sequence using recursion.								
+37. Count Occurrences of Element (Recursion): Write a recursive function to count the occurrences of a specific element in an array.								
+38. Find Subsets of Array: Write a recursive function to find all subsets of an array.								
+39. Generate Permutations of Array: Write a recursive function to generate all permutations of an array.								
+40. Array Contains Subsequence (Recursion): Write a recursive function to check if an array contains a specific subsequence.								
+								
+Expert Level								
+								
+41. Longest Palindromic Subarray: Write a function to find the longest palindromic subarray.								
+42. Trapping Rain Water Problem: Given an array of non-negative integers representing an elevation map, compute how much water it can trap after raining.								
+43. Find Minimum Jumps to Reach End: Write a function that finds the minimum number of jumps required to reach the end of an array.								
+44. Sliding Window Maximum: Write a function to find the maximum in every sliding window of size k.								
+45. Largest Rectangle in Histogram: Write a function to find the largest rectangle in a histogram.								
+46. Find the Missing Element in Two Arrays: Given two arrays where one is missing a single element from the other, find the missing element.								
+47. Subarray with Given Sum: Write a function to find a continuous subarray that sums to a given number.								
+48. Next Greater Element: Write a function that returns the next greater element for each element in an array.								
+49. Minimum Window Substring: Write a function that finds the smallest substring containing all characters of another string.								
+50. Three Sum Problem: Write a function to find all unique triplets in an array that give the sum of zero.								
+								
+These problems will cover many important concepts of arrays and recursion in JavaScript. Start with the beginner ones and gradually move on to the more advanced problems.								
