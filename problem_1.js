@@ -3,3 +3,7 @@
 
 
 console.log("hello world");
+let a = 10;
+let b = 30;
+let result = a + b ;
+console.log(result);
